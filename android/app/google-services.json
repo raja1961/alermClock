@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374674393119",
+    "project_id": "alermclock-ead66",
+    "storage_bucket": "alermclock-ead66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374674393119:android:b235d6a58319e65f98ed2a",
+        "android_client_info": {
+          "package_name": "com.alermclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374674393119-rud36gkc3igvb0epte2j1ffn08voprqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alermclock",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "374674393119-pjch29eljjl58kjdhisumbu4s6nh9dlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPxb0AVxhMKJoVsEVGc7vSVem3SzTGd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374674393119-pjch29eljjl58kjdhisumbu4s6nh9dlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
